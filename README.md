@@ -1,7 +1,6 @@
 How to Use
 
 Lab1:
-
 https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab1
 
 Set up your matrices:
