@@ -22,6 +22,8 @@ double[][] B = {
 ```
 Run the program
 
+
+
 Lab2:
 https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab2
 
@@ -41,3 +43,34 @@ Run the program
 
 
 
+Lab3:
+https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab3
+
+In the Main class, locate the array submarines in the main method. Define all the submarines you want to process by specifying their properties:
+
+Name
+
+Displacement (in tons)
+
+Speed (in knots)
+
+Crew size
+
+Build year
+```
+Submarine[] submarines = {
+    new Submarine("Titan", 5000, 30, 100, 2010),
+    new Submarine("Nautilus", 3000, 25, 80, 2000),
+    new Submarine("Poseidon", 4500, 28, 90, 2005),
+    new Submarine("Leviathan", 6000, 35, 120, 2015),
+    new Submarine("Kraken", 4000, 22, 70, 1995)
+};
+```
+
+Then in the same method, define the submarine you want to search for in the array by specifying identical properties:
+
+```
+Submarine target = new Submarine("Poseidon", 4500, 28, 90, 2005);
+```
+
+Run the program
