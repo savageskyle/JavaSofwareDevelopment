@@ -1,3 +1,7 @@
+## Martynenko Arsen
+
+## Group: IK-23
+
 ## How to Use
 
 - [Lab1](#lab1)
@@ -5,6 +9,7 @@
 - [Lab3](#lab3)
 - [Lab4](#lab4)
 - [Lab5](#lab5)
+- [Lab6](#lab6)
 
 ## Lab1:
 https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab1
@@ -125,5 +130,29 @@ double maxSugar = 50;
 ```
 
 Then run the program
+
+
+## Lab6
+https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab6
+
+Go to the Main class. Create as many instances of Sweet (or its subclasses Candy and Chocolate) as you want.
+
+You can create sweets like this:
+
+```java
+Sweet candy1 = new Candy("Lollipop", 50, 30, "Cherry");
+Sweet chocolate1 = new Chocolate("Milk Chocolate", 100, 50, 40);
+```
+
+You can add these sweets to the collection using one of the constructors or the add() method:
+
+```java
+TypedCollection collection = new TypedCollection();
+collection.add(candy1);
+collection.add(chocolate1);
+```
+Then run your program
+
+
 
 
