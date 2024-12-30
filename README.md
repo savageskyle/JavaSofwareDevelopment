@@ -2,6 +2,8 @@ How to Use
 
 Lab1:
 
+https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab1
+
 Set up your matrices:
 
 Open the Main class.
@@ -20,3 +22,23 @@ double[][] B = {
 };
 ```
 Run the program
+
+Lab2:
+https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab2
+
+Set up your input text:
+
+Open the Main class.
+
+In the main method, locate the StringBuffer text variable inside the try block.
+
+Set the text variable to the input string you want to process.
+
+```
+StringBuffer text = new StringBuffer("This is an example text to demonstrate processing");
+```
+
+Run the program
+
+
+
