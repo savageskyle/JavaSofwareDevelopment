@@ -74,3 +74,23 @@ Submarine target = new Submarine("Poseidon", 4500, 28, 90, 2005);
 ```
 
 Run the program
+
+
+
+Lab4 
+https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab4
+
+Set up your input text:
+
+Open the Main class.
+
+In the main method, locate the StringBuffer text variable inside the try block.
+
+Set the text variable to the input string you want to process.
+
+
+```
+StringBuffer inputText = new StringBuffer("Це    спосіб\tтестування   відпрацювання програми!");
+```
+
+Then run the program
