@@ -1,5 +1,11 @@
 ## How to Use
 
+- [Lab1](#lab-1)
+- [Lab2](#lab-2)
+- [Lab3](#lab-3)
+- [Lab4](#lab-4)
+- [Lab5](#lab-5)
+
 ## Lab1:
 https://github.com/savageskyle/JavaSofwareDevelopment/tree/master/lab1
 
